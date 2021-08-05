@@ -1,5 +1,0 @@
----
-- hosts: intranet
-  become: yes
-  roles:
-    - web        
